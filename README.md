@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! 👋</h1>
 
 <p align="center">
-A passionate software developer from Pakistan 🇵🇰
+I'm Muzammal Hussain, a software developer from Pakistan 🇵🇰
 </p>
 
 ---
