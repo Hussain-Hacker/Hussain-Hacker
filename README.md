@@ -7,7 +7,7 @@ I'm Muzammal Hussain, a software developer from Pakistan 🇵🇰
 ---
 
 <p align="center">
-💻 I’m currently working on a Trade Quest<br>
+💻 I’m currently working on a Trade Quest App<br>
 🌱 I’m currently learning Docker & AWS<br>
 💬 Ask me about JavaScript, React.js, Nest.js, or anything <a href="#">here</a><br>
 </p>
@@ -45,6 +45,7 @@ I'm Muzammal Hussain, a software developer from Pakistan 🇵🇰
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Hacker&show_icons=true&theme=radical" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Hacker&layout=compact&theme=radical" alt="Top Languages">
+  
 </p>
 
 ---
