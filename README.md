@@ -7,7 +7,7 @@ I'm Muzammal Hussain, a software developer from Pakistan 🇵🇰
 ---
 
 <p align="center">
-💻 I’m currently working on a Prometheum<br>
+💻 I’m currently working on a Trade Quest<br>
 🌱 I’m currently learning Docker & AWS<br>
 💬 Ask me about JavaScript, React.js, Nest.js, or anything <a href="#">here</a><br>
 </p>
@@ -35,7 +35,7 @@ I'm Muzammal Hussain, a software developer from Pakistan 🇵🇰
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hussain-Hacker&theme=radical&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=Hussain-Hacker&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
